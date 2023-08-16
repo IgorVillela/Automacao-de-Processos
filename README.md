@@ -28,7 +28,7 @@ Diversidade de Produtos (quantos produtos diferentes foram vendidos naquele per�
 Ticket Médio por Venda -> Meta Ano: 500 / Meta Dia: 500 <br>
 
 ## Informações importantes
-Para o funcionamento completo do arquivo main.py, algumas detalhes devem ser considerados:
+Para o funcionamento completo do arquivo main.py, alguns detalhes devem ser considerados:
 - Garanta que a disposição dos arquivos sejam conforme a disponibilizada
 - A senha de APP Google é gerada randomicamente (Conta Google>Configurações>Segurança>Verificação em duas etapas>Senhas de app)
 - Alterar o texto 'E-MAIL REMETENTE' no arquivo 'AutomacaoEmail.py' para algum g-mail de seu domínio
