@@ -23,9 +23,9 @@ Ao final, a rotina deve enviar ainda um e-mail para a diretoria (informações t
 As planilhas de cada loja devem ser salvas dentro da pasta da loja com a data da planilha, a fim de criar um histórico de backup
 
 ## Indicadores do OnePage
-Faturamento -> Meta Ano: 1.650.000 / Meta Dia: 1000
-Diversidade de Produtos (quantos produtos diferentes foram vendidos naquele período) -> Meta Ano: 120 / Meta Dia: 4
-Ticket Médio por Venda -> Meta Ano: 500 / Meta Dia: 500
+Faturamento -> Meta Ano: 1.650.000 / Meta Dia: 1000 <br>
+Diversidade de Produtos (quantos produtos diferentes foram vendidos naquele período) -> Meta Ano: 120 / Meta Dia: 4 <br>
+Ticket Médio por Venda -> Meta Ano: 500 / Meta Dia: 500 <br>
 
 ## Informações importantes
 Para o funcionamento completo do arquivo main.py, algumas detalhes devem ser considerados:
