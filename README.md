@@ -9,7 +9,7 @@ Todo dia, pela manhã, a equipe de análise de dados calcula os chamados One Pag
 Um One Page é um resumo muito simples e direto ao ponto, usado pela equipe de gerência de loja para saber os principais indicadores de cada loja e permitir em 1 página (daí o nome OnePage) tanto a comparação entre diferentes lojas, quanto quais indicadores aquela loja conseguiu cumprir naquele dia ou não.
 
 Exemplo de OnePage:
-![image](https://github.com/IgorVillela/Automacao-de-Processos/assets/127359783/10d598ba-b4c7-4997-ae09-63066aff1a21)
+![image](https://github.com/IgorVillela/Automacao-de-Processos/assets/127359783/9eb976cd-8457-4a15-9bdd-c90f79cc42ed)
 
 ## Arquivos e Informações Importantes
 Arquivo Emails.xlsx com o nome, a loja e o e-mail de cada gerente. Obs: Sugiro substituir a coluna de e-mail de cada gerente por um e-mail seu, para você poder testar o resultado
