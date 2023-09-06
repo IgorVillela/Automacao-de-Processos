@@ -27,7 +27,7 @@ Faturamento -> Meta Ano: 1.650.000 / Meta Dia: 1000 <br>
 Diversidade de Produtos (quantos produtos diferentes foram vendidos naquele período) -> Meta Ano: 120 / Meta Dia: 4 <br>
 Ticket Médio por Venda -> Meta Ano: 500 / Meta Dia: 500 <br>
 
-## Informações importantes
+## Antes de executar, garanta estas etapas
 Para o funcionamento completo do arquivo main.py, alguns detalhes devem ser considerados:
 - Garanta que a disposição dos arquivos sejam conforme a disponibilizada
 - A senha de APP Google é gerada randomicamente (Conta Google>Configurações>Segurança>Verificação em duas etapas>Senhas de app)
